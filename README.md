@@ -2,19 +2,19 @@ Executive Donor Fundraiser Dashboard |
 A Tableau dashboard built to help nonprofit leadership monitor fundraising performance, donor engagement, and year-over-year giving trends across a 10-year campaign period (2015–2025).
 ---
 
-Dashboard Overview |
+Dashboard Overview
 ---
 This executive-level dashboard provides a high-level summary of philanthropic performance using transactional donor data. It is designed for development officers, philanthropy directors, and senior leadership who need quick, actionable insights without navigating raw data. [Click here to see dashboard](https://public.tableau.com/app/profile/kerristen.brooks/viz/ExecutiveDonorFundraiserDashboard/DonorDashboard)
 
 
-Key Metrics Displayed |
+Key Metrics Displayed
 ---
 KPI	Value
 Total Donations Raised (2015–2025)	$20,636,208
 Total Active Donors	1,987
 Donor Retention Rate	97.38%
 
-Visualizations |
+Visualizations
 ---
 Total Donations Raised (2015–2025) — Headline KPI tile showing cumulative giving over the full 10-year campaign window
 Total Active Donors — Count of unique donors with at least one recorded gift
@@ -24,7 +24,7 @@ Top 25 Donors — Ranked table of highest cumulative givers by full name and tot
 
 ---
 
-Dataset |
+Dataset
 ---
 File: `nonprofit_donor_data_V2.csv`
 The dataset contains individual-level donation transaction records with the following fields:
@@ -48,7 +48,7 @@ Records: ~10 years of transaction-level data across 1,987+ unique donors and 20 
 
 ---
 
-Tools Used |
+Tools Used
 ---
 Tableau Desktop / Tableau Public — Dashboard design and visualization
 Microsoft Excel / CSV — Data source preparation
@@ -56,7 +56,7 @@ Python (pandas) (optional preprocessing) — Data cleaning and aggregation
 
 ---
 
-Use Cases |
+Use Cases
 ---
 Monitor overall fundraising health at a glance
 Identify year-over-year trends and flag declining giving periods for leadership review
@@ -66,7 +66,7 @@ Support board presentations and executive briefings
 
 ---
 
-Notes |
+Notes
 ---
 This dashboard was built using simulated nonprofit donor data for portfolio demonstration purposes.
 Donor names and contact information in the dataset are fictional.
