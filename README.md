@@ -9,17 +9,16 @@ This executive-level dashboard provides a high-level summary of philanthropic pe
 
 Key Metrics Displayed
 ---
-KPI	Value
-Total Donations Raised (2015–2025)	$20,636,208
-Total Active Donors	1,987
-Donor Retention Rate	97.38%
+Total Donations Raised (2015–2025):	$20,636,208 |
+Total Active Donors:	1,987 |
+Donor Retention Rate:	97.38%
 
 Visualizations
 ---
-Total Donations Raised (2015–2025) — Headline KPI tile showing cumulative giving over the full 10-year campaign window
-Total Active Donors — Count of unique donors with at least one recorded gift
-Donor Retention Rate — Percentage of donors who gave in more than one period, a critical indicator of donor loyalty
-Year-Over-Year Growth Trend — Line chart showing annual donation totals from 2015 to 2025, with percentage change labels; growth years shown in green, decline years shown in red
+Total Donations Raised (2015–2025) — Headline KPI tile showing cumulative giving over the full 10-year campaign window |
+Total Active Donors — Count of unique donors with at least one recorded gift |
+Donor Retention Rate — Percentage of donors who gave in more than one period, a critical indicator of donor loyalty |
+Year-Over-Year Growth Trend — Line chart showing annual donation totals from 2015 to 2025, with percentage change labels; growth years shown in green, decline years shown in red |
 Top 25 Donors — Ranked table of highest cumulative givers by full name and total giving amount
 
 ---
@@ -50,19 +49,19 @@ Records: ~10 years of transaction-level data across 1,987+ unique donors and 20 
 
 Tools Used
 ---
-Tableau Desktop / Tableau Public — Dashboard design and visualization
-Microsoft Excel / CSV — Data source preparation
+Tableau Desktop / Tableau Public — Dashboard design and visualization |
+Microsoft Excel / CSV — Data source preparation |
 Python (pandas) (optional preprocessing) — Data cleaning and aggregation
 
 ---
 
 Use Cases
 ---
-Monitor overall fundraising health at a glance
-Identify year-over-year trends and flag declining giving periods for leadership review
-Recognize and steward top donors based on cumulative lifetime giving
-Track donor retention as a measure of program effectiveness
-Support board presentations and executive briefings
+Monitor overall fundraising health at a glance |
+Identify year-over-year trends and flag declining giving periods for leadership review |
+Recognize and steward top donors based on cumulative lifetime giving |
+Track donor retention as a measure of program effectiveness |
+Support board presentations and executive briefings |
 
 ---
 
